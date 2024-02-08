@@ -19,7 +19,7 @@ Esteban</a></h1>
 
 - 📫 Te puedes comunicar conmigo **estebane1405@gmail.com**
 
-- 📄 Conoce mis proyectos <a href="https://github.com/EstebanEscobar14?tab=repositories" target="blank">Proyectos</a>
+- 📄 Conoce mis proyectos <a href="https://estebanescobar.netlify.app/" target="blank">Proyectos</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
 

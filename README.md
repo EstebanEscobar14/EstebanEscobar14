@@ -7,19 +7,19 @@ Esteban</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estoy estudiando <a href="https://medac.es/" target="blank">desarrollo de aplicaciones multiplataforma.</a>
+- 🔭 Actualmente estoy estudiando <a href="https://medac.es/" target="_blank">desarrollo de aplicaciones multiplataforma.</a>
 
-- 🌱 Actualmente estoy trabajando en una aplicación móvil (Android Studio).
+- 🌱 Actualmente estoy trabajando en una red social (Android Studio).
 
-- 🤝 Estoy disponible para trabajar para cualquier proyecto donde tenga conocimiento.
+- 💼 Actualmente estoy en la consultura IT <a hreft="https://es.linkedin.com/company/nter-tech">Nter Tech Services</a>.
 
-- 📕 Actualmente estoy aprendiendo SpringBoot
+- 📕 Actualmente estoy aprendiendo Angular
 
 - 💬 Preguntame sobre **Android y Java**
 
 - 📫 Te puedes comunicar conmigo **estebane1405@gmail.com**
 
-- 📄 Conoce mis proyectos <a href="https://estebanescobar.netlify.app/" target="blank">Proyectos</a>
+- 📄 Conoce mis proyectos <a href="https://estebanescobar.netlify.app/" target="_blank">Proyectos</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
 

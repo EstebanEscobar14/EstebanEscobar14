@@ -11,7 +11,7 @@ Esteban</a></h1>
 
 - 🌱 Actualmente estoy trabajando en una red social (Android Studio).
 
-- 💼 Actualmente estoy en la consultura IT <a hreft="https://es.linkedin.com/company/nter-tech">Nter Tech Services</a>.
+- 💼 Actualmente estoy en la consultura IT <a href="https://es.linkedin.com/company/nter-tech" target="_blank">Nter Tech Services</a>.
 
 - 📕 Actualmente estoy aprendiendo Angular
 

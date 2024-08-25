@@ -41,7 +41,7 @@ Esteban</a></h1>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,androidstudio,firebase,github,html,idea,java,js,linux,md,mongodb,mysql,postman,py,angular,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,androidstudio,spring,firebase,github,html,idea,java,js,linux,md,mongodb,mysql,postman,py,angular,ts,vscode&perline=14" />
   </a>
 </p>
 

@@ -9,7 +9,7 @@ Esteban</a></h1>
 
 - 🔭 Actualmente estoy trabjando en <a href="https://www.linkedin.com/company/nter-tech/" target="_blank">Nter Tech Services.</a>
 
-- 🌱 Actualmente estoy trabajando como FrontEnd Developer (Angular).
+- 🌱 Actualmente estoy trabajando como FrontEnd (Angular).
   
 - 📕 Actualmente estoy aprendiendo Angular - SpringBoot
 
